@@ -1,2 +1,2 @@
 # primeiro-site
-meu orimeiro site em html e css
+meu primeiro site em html e css
